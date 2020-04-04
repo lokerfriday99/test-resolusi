@@ -6,3 +6,4 @@ RENCANA KERJA
 - Mini Workshop
   * jualan kecil-kecilan
    ^ minimal gajinya 2 juta
+   ^ menjual barang atau jasa
