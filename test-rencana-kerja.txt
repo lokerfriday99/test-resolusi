@@ -2,5 +2,7 @@ RENCANA KERJA
 - Software Engineering
   * gaji minimal 10 juta
   * kerja flexible
+   ^ Happy fun with own works
+   ^ Semua bisa heppy
 - Mini Workshop
   * jualan kecil-kecilan
